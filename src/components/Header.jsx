@@ -7,16 +7,16 @@ function Header(){
             </div>
             <div className="navbar flex items-center">
         <ul className="nav-list flex px-1 m-1 space-x-4">
-          <li className="px-4 py-2 m-1 rounded-lg bg-white text-black font-bold hover:bg-blue-600 hover:text-white hover:scale-105 shadow-md hover:shadow-lg transition-all duration-300 cursor-pointer">
+          <li className="px-4 py-2 m-1 rounded-lg bg-white text-black font-bold hover:bg-gray-700 hover:text-white hover:scale-105 shadow-md hover:shadow-lg transition-all duration-300 cursor-pointer">
             About
           </li>
-          <li className="px-4 py-2 m-1 rounded-lg bg-white text-black font-bold hover:bg-blue-600 hover:text-white hover:scale-105 shadow-md hover:shadow-lg transition-all duration-300 cursor-pointer">
+          <li className="px-4 py-2 m-1 rounded-lg bg-white text-black font-bold hover:bg-gray-700 hover:text-white hover:scale-105 shadow-md hover:shadow-lg transition-all duration-300 cursor-pointer">
             TechStack
           </li>
-          <li className="px-4 py-2 m-1 rounded-lg bg-white text-black font-bold hover:bg-blue-600 hover:text-white hover:scale-105 shadow-md hover:shadow-lg transition-all duration-300 cursor-pointer">
+          <li className="px-4 py-2 m-1 rounded-lg bg-white text-black font-bold hover:bg-gray-700 hover:text-white hover:scale-105 shadow-md hover:shadow-lg transition-all duration-300 cursor-pointer">
             Projects
           </li>
-          <li className="px-4 py-2 m-1 rounded-lg bg-white text-black hover:bg-blue-600 hover:text-white hover:scale-105 shadow-md hover:shadow-lg transition-all duration-300 cursor-pointer flex items-center justify-center">
+          <li className="px-4 py-2 m-1 rounded-lg bg-white text-black hover:bg-black hover:text-white hover:scale-105 shadow-md hover:shadow-lg transition-all duration-300 cursor-pointer flex items-center justify-center">
             <FaGithub size={24} />
           </li>
           <li className="px-4 py-2 m-1 rounded-lg bg-white text-black hover:bg-blue-600 hover:text-white hover:scale-105 shadow-md hover:shadow-lg transition-all duration-300 cursor-pointer flex items-center justify-center">

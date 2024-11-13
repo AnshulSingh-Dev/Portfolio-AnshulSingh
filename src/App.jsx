@@ -5,11 +5,13 @@ import Header from './components/Header'
 import Footer from './components/Footer'
 import Body from './components/Body'
 import Sidebar from './components/Sidebar'
+import Header2 from './components/Header2'  
 
 function App() {
   return(
     <div id='container'>
-      <Header />
+      <Header2 />
+      {/* <Sidebar /> */}
       <Body />
       <Footer />
     </div>
